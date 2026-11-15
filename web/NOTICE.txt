@@ -1,0 +1,1 @@
+Eesti kaardi kontuur: Natural Earth (public domain), map.json allikast hseeberg/sugupuu-kaardil (MIT), autor Hannes Seeberg. https://github.com/hseeberg/sugupuu-kaardil
